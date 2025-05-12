@@ -1,75 +1,53 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+Seja Bem-vindo(a)!
+Olá, meu nome é Bruna Bonifácio Soares Santos e esse é o meu portfólio. Sou estudante de Análise e Desenvolvimento de Sistemas (ADS) no CEUB e criei esse documento para contar um pouco sobre minha trajetória acadêmica na área da tecnologia da informação. Nele você encontrará meus projetos, habilidades, experiências e um pouco de quem sou! 
 
-# GitHub Pages
+# Perfil Pessoal
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+Um pouco sobre mim
 
-</header>
 
-<!--
-  <<< Author notes: Course start >>>
-  Include start button, a note about Actions minutes,
-  and tell the learner why they should take the course.
--->
+Me chamo Bruna Bonifácio Soares Santos, atualmente tenho 19 anos de idade e estou cursando o primeiro semestre de ADS (Análise e Desenvolvimento de Sistemas) no CEUB da asa norte, que possui duração de 2 anos e meio. 
+Sou uma pessoa que adora fazer trabalhos manuais como: crochetar e costurar, amo ler livros de diversos gêneros, sou apaixonada por música e adoro tocar teclado.
+ Me considero uma pessoa muito dedicada, estudiosa e determinada, adoro aprender coisas novas e estou pronta para os desafios que o mercado de trabalho na área de TI possui.  Assim, para estar cada vez mais capacitada para atuar no ramo da tecnologia e fluir nesse mercado amplo, busco cada vez mais ir além daquilo que o meu curso ensina, ou seja, prezo muito pelo autoditatismo na minha formação.  
 
-## Welcome
+# Objetivos Profissionais.
 
-With GitHub Pages, you can host project blogs, documentation, resumes, portfolios, or any other static content you'd like. Your GitHub repository can easily become its own website. In this course, we'll show you how to set up your own site or blog using GitHub Pages.
+Desejo me tornar uma boa desenvolvedora de front-end e continuamente obter certificações em diversas áreas da tecnologia da informação para me tornar uma profissional completa.
 
-- **Who is this for**: Beginners, students, project maintainers, small businesses.
-- **What you'll learn**: How to build a GitHub Pages site.
-- **What you'll build**: We'll build a simple GitHub Pages site with a blog. We'll use [Jekyll](https://jekyllrb.com), a static site generator.
-- **Prerequisites**: If you need to learn about branches, commits, and pull requests, take [Introduction to GitHub](https://github.com/skills/introduction-to-github) first.
-- **How long**: This course takes less than one hour to complete.
+# Contato
 
-In this course, you will:
+Email: brunaboni2014@gmail.com
 
-1. Enable GitHub Pages
-2. Configure your site
-3. Customize your home page
-4. Create a blog post
-5. Merge your pull request
 
-### How to start this course
+LinkedIn: www.linkedin.com/in/bruna-bonifácio-661a9a2ba
 
-<!-- For start course, run in JavaScript:
-'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
-  description: 'My clone repository',
-  visibility: 'public',
-}).toString()
--->
 
-[![start-course](https://user-images.githubusercontent.com/1221423/235727646-4a590299-ffe5-480d-8cd5-8194ea184546.svg)](https://github.com/new?template_owner=skills&template_name=github-pages&owner=%40me&name=skills-github-pages&description=My+clone+repository&visibility=public)
+ Número de celular: 55+ 61 986360337 
 
-1. Right-click **Start course** and open the link in a new tab.
-2. In the new tab, most of the prompts will automatically fill in for you.
-   - For owner, choose your personal account or an organization to host the repository.
-   - We recommend creating a public repository, as private repositories will [use Actions minutes](https://docs.github.com/en/billing/managing-billing-for-github-actions/about-billing-for-github-actions).
-   - Scroll down and click the **Create repository** button at the bottom of the form.
-3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
+ # Currículo
 
-<footer>
 
-<!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
--->
+ https://docs.google.com/document/d/1zDLDsXZo6c3P3fB4vpQUG61yVVezlxW7AH7AJPh6nAM/edit?tab=t.0#heading=h.5x0d5h95i329
 
----
 
-Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
+# Habilidades e Competências 
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+https://docs.google.com/presentation/u/0/?authuser=0&usp=slides_web
 
-</footer>
+# Projetos Acadêmicos
+
+- Cisco Networking Academy 
+No momento estou em fazendo um curso de cibersegurança na Cisco Networking Academy, que é uma plataforma estrangeira de cursos que está realizando uma parceria com o uniCEUB.
+
+- Curso em vídeo Lógica da Programação
+
+Realizei um curso de Lógica da programação na plataforma Curso em Vídeo e obtive um certifcado de 40 horas de estudo em Algoritmos. Atualmente estou fazendo um curso de Javascript nessa mesma plataforma de estudos para aprimorar o que ando aprendendo na faculdade.
+ 
+
+# Certificados 
+
+- Certificado Curso em Vídeo: Algoritmos (lógica de programação)
+- Diploma de fluência na Thomas Jefferson
+  
