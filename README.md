@@ -16,7 +16,6 @@ Sou uma pessoa que adora fazer trabalhos manuais como: crochetar e costurar, amo
 
 # Objetivos Profissionais.
 Desejo me tornar uma boa desenvolvedora de front-end e continuamente obter certificações em diversas áreas da tecnologia da informação para me tornar uma profissional completa. 
-## Welcome
 
 # Contatos 
 
